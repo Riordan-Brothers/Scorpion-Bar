@@ -1,0 +1,23 @@
+<Device Model="DIN-AP3">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="CLX-2DIMU8" DeviceId="03" Name="CLX-2DIMU8 Top"/>
+      <Device Model="CLX-2DIMU8" DeviceId="04"/>
+      <Device Model="CLX-2DIMU8" DeviceId="05"/>
+      <Device Model="CLX-2DIMU8" DeviceId="06" Name="CLX-2DIMU8 Bottom"/>
+      <Device Model="C2N-CBD-P" DeviceId="26" Name="bar 2g right"/>
+      <Device Model="C2N-CBD-P" DeviceId="27" Name="bar 2g left"/>
+      <Device Model="C2N-CBD-P" DeviceId="28" Name="back door"/>
+      <Device Model="GLS-ODT-C-CN" DeviceId="99" Name="womens"/>
+      <Device Model="GLS-ODT-C-CN" DeviceId="9A" Name="mens"/>
+      <Device Model="GL-EXP-DIMU-CN" DeviceId="A1"/>
+      <Device Model="GL-EXP-DIMU-CN" DeviceId="A2"/>
+      <Device Model="GL-EXP-DIMU-CN" DeviceId="A3"/>
+      <Device Model="GL-EXP-DIMFLV-CN" DeviceId="A5" Name="del"/>
+      <Device Model="GL-EXP-DIMFLV-CN" DeviceId="A6" Name="del"/>
+      <Device Model="GL-EXP-DIMFLV-CN" DeviceId="A8"/>
+   </Network>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="TSW-750" DeviceId="03" Name="TSW-750 .55"/>
+      <Device Model="XPanel 2.0 Smart Graphics" DeviceId="04"/>
+   </Network>
+</Device>
